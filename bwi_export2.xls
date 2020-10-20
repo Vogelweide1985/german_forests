@@ -1,0 +1,1550 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Thomas Halamuda</LastAuthor>
+  <LastSaved>2020-10-15T19:07:12Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowIconic/>
+  <WindowHeight>11115</WindowHeight>
+  <WindowWidth>25200</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+  <ss:WindowHeight>13170</ss:WindowHeight>
+  <ss:WindowWidth>17580</ss:WindowWidth>
+  <ss:WindowTopX>120</ss:WindowTopX>
+  <ss:WindowTopY>60</ss:WindowTopY>
+  <ss:ProtectStructure>False</ss:ProtectStructure>
+  <ss:ProtectWindows>False</ss:ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="(%)">
+  <Table ss:ExpandedColumnCount="14" ss:ExpandedRowCount="96" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="60" ss:AutoFormat="1">
+   <Row>
+    <Cell><Data ss:Type="String"> Anteil an der Waldfläche (gemäß Standflächenanteil)  [%] nach Wuchsgebiet und Baumartengruppe</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Filter:Jahr=2012 ; ;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Basis:Deutschland, Wuchseinheiten (-bezirke, -gebiete-, regionen), Holzboden, begehbarer Wald, einschließlich Lücken in der Bestockung bzw. im Bestand, Bäume im Hauptbestand oder Plenterwald, bestandesintern, Raster: 16km²: NI, NW, HE, SL, BY, BE, BB / 8km²: NI, BY, SN, TH / 4km²: SH, RP, BW, ST, MV  (Inventurnetz für BWI 2012 (Zustandsrechnungen));  ideeller Flächenbezug (Standfläche))</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> (77Z1JI_W654of_2012_bi / 2015-8-7 13:34:9.153)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" x:CustomWidth="1" x:BestFit="1">Wuchsgebiet</Data></Cell>
+    <Cell><Data ss:Type="String" x:CustomWidth="1" x:BestFit="1">Einheit</Data></Cell>
+    <Cell><Data ss:Type="String" x:CustomWidth="1" x:BestFit="1">Eiche</Data></Cell>
+    <Cell><Data ss:Type="String" x:CustomWidth="1" x:BestFit="1">Buche</Data></Cell>
+    <Cell><Data ss:Type="String" x:CustomWidth="1" x:BestFit="1">andere Lb hoher Lebensdauer</Data></Cell>
+    <Cell><Data ss:Type="String" x:CustomWidth="1" x:BestFit="1">andere Lb niedriger Lebensdauer</Data></Cell>
+    <Cell><Data ss:Type="String" x:CustomWidth="1" x:BestFit="1">alle Laubbäume</Data></Cell>
+    <Cell><Data ss:Type="String" x:CustomWidth="1" x:BestFit="1">Fichte</Data></Cell>
+    <Cell><Data ss:Type="String" x:CustomWidth="1" x:BestFit="1">Tanne</Data></Cell>
+    <Cell><Data ss:Type="String" x:CustomWidth="1" x:BestFit="1">Douglasie</Data></Cell>
+    <Cell><Data ss:Type="String" x:CustomWidth="1" x:BestFit="1">Kiefer</Data></Cell>
+    <Cell><Data ss:Type="String" x:CustomWidth="1" x:BestFit="1">Lärche</Data></Cell>
+    <Cell><Data ss:Type="String" x:CustomWidth="1" x:BestFit="1">alle Nadelbäume</Data></Cell>
+    <Cell><Data ss:Type="String" x:CustomWidth="1" x:BestFit="1">alle Baumarten</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">1 : Schleswig-Holstein Nordwest</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">19.670590086286463</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">12.378841500277064</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.7880795062553556</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">20.081979508779536</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">57.919490460726095</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">21.14289506877223</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.9269993305672086</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.1475312592491291</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.9152091636311517</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">12.947875037147405</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">42.08050981945329</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">100.00000012521983</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">2 : Jungmoränenlandschaft Schleswig-Holstein Ost / Nordwest-Mecklenburg</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">14.566092721217025</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">25.365110764573682</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">13.200534017929169</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">21.877512074116563</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">75.0092494398789</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">11.59865570003652</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.76901257469973594</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.5046700434221607</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.8972319459109004</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.2211802967816512</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">24.990750561007019</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999938851303</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">3 : Schleswig-Holstein Südwest</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">16.460805813610673</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.6622801835982894</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.9500114797243642</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">23.991487286321391</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">55.064584720079942</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">22.139718530965709</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.1390756445657269</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.7248680537091685</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.9144998224037337</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.0172532758591757</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">44.935415289751347</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999893267486</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">4 : Mecklenburg-Westvorpommersches Küstenland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">11.637539738778575</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">17.23877076970027</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">12.376203492534964</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">25.658723579982588</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">66.911237398448918</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">8.4750468373729468</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.23927439211011758</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.34125965439380579</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">20.048437815483975</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.9847437444229636</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">33.088762434697735</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999788542297</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">5 : Ostholsteinisch-Westmecklenburger Jungmoränenland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">11.003828868898381</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">16.844840203390437</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">8.4527585767920286</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">24.412766730526219</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">60.714194343427899</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">8.5821766235124475</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.13967069590321388</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.5078041472736328</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">25.736557208622003</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.3195969879560501</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">39.285805667148374</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999922478423</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">6 : (Mittel-) Mecklenburger Jungmoränenland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.259223758575887</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">8.1852366097273883</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.118505603020393</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">14.250283671055824</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">29.813249642379496</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.9212325446578005</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.15348959969235501</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.6627169190541999</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">58.479069380471572</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.9702419939872926</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">70.186750396451231</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999940954652</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">7 : Ostmecklenburg-Vorpommersches Jungmoränenland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">14.470888510767232</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">15.773761303786646</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">15.188925675016627</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">24.100263683771683</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">69.533838996915591</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">11.648917686384452</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.0988261716844421</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">12.078676983181545</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.6397401998738967</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">30.466160983408567</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999926543552</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">8 : Ostvorpommersches Küstenland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.4369139213906994</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">8.1997238026665578</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.0448345911678176</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">18.818837704802611</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">39.500309944666725</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.8405305573011495</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.39499749128667355</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">51.018648271201457</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.2455137414232227</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">60.499690013109763</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999828968001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">9 : Nordostbrandenburger Jungmoränenland (Mittelbrandenburger Jungmoränenland)</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">12.200593249178615</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.8290096264173995</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">10.916820065823053</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">14.373008758502154</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">38.319431665193953</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.2595342133424428</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.968680007819603</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">52.342705858002205</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.1096481970725698</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">61.680568232862505</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999965300532</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">10: Ostmecklenburg-Nordbrandenburger Jungmoränenland (Nordbrandenburger Jungmoränenland)</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">7.0503773269298327</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">10.540610587515394</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.4383691482372938</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">11.46968179723612</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">31.499038823070396</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.4142507236543369</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.8977082452210101</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">61.475187520863216</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.7138146866419324</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">68.500961147610013</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999904149632</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">11: Ostniedersächsisch-altmärkisches Altmoränenland (Westprignitz-Altmärkisches Altmoränenland)</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">10.513154131102631</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.6939523629189681</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.4041058102532906</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">13.797106557868199</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">28.408318853693547</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.2985062660513789</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.902408361980533E-2</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.4301504767154734</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">65.155589656580986</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.6484106528107794</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">71.59168113117768</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999943851833</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">12: Südost-Holsteinisch-Südwestmecklenburger Altmoränenland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">8.052798919342715</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">8.2704515453979024</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.6591438576465805</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">15.497045335958664</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">33.479439640333432</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.7977666321557759</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">8.5143805686773336E-2</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.5096715879633082</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">56.959920969146836</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.1680571999090184</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">66.52056019537757</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999776693599</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">13: Ostniedersächsisches Tiefland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">10.499343394221169</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.2859985468823356</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.1808835924540528</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">16.084614361575962</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">30.050839863929269</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">11.113145799159382</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.9060829745681825E-2</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.111476826469759</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">53.577215240932816</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.0482614281339648</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">69.949160084225227</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999858292355</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">14: Niedersächsischer Küstenraum</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">14.759440155451955</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.8574030543231341</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.4478505868346101</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">30.587158808315966</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">55.651852433279316</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">14.87774443719978</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.4658160928014063</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.785745127408354</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">17.904320645491406</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.3145213361522927</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">44.348147611289228</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999929859371</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">15: Mittelwestniedersächsisches Tiefland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">17.938852649174677</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.5763991170497631</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.0525767653877773</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">22.806079600202295</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">46.373908080636625</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">8.0366842768579438</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.39094284639238597</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.6313246266741142</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">35.04961536695064</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.5175248403334951</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">53.626091889258753</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999883029034</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">16: Westfälische Bucht</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">26.375397653545502</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">14.546457665159373</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">8.5635298691149533</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">16.522110667243677</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">66.00749571491265</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.6094002345598177</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.50650258431449102</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.36804545000424499</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">19.931162613056266</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.5773935796998537</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">33.992504420441051</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999924007525</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">22: Mittleres nordostdeutsches Altmoränenland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.1199204034294343</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.51391116109988599</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.6741080970534368</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">11.706219379425947</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">27.01415905059261</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.58714155129177892</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.3015170581560602E-2</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.25879068584973303</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">71.072053082257085</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.0348404291055755</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">72.985840915264973</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999899078631</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">23: Hoher Fläming</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">7.4485309362010446</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.2422656009881301</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.8801047426656579</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">11.282440990376426</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">24.853342167465851</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.1318826490938945</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.4652951161004593</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">69.473753252706487</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.075726843095719</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">75.146657856915994</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.99999990287813</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">24: Mittelbrandenburger Talsand- und Moränenland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.6205997317566334</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.057360505227978</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.1838318999696051</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">10.819178426882827</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">21.680970544717688</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.99818479285211215</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.0915114674006138E-3</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.36028750154918915</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">76.252516395873172</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.70194916643796745</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">78.319029379316746</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999866875086</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">25: Düben-Niederlausitzer Altmoränenland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.0902028340939358</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.3826967769930283</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.5026018569393358</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">13.582182065061421</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">22.557683534804184</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.2741439382391408</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.17782771815665768</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">75.474856227533735</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.51548860114108164</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">77.442316481605872</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999903554595</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">42: Niederrheinisches Tiefland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">27.003389246177321</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">10.642255653169975</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">12.413241292030518</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">23.315751093192834</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">73.374637014239852</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.2370083401609522</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.44165050677928913</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.290148684646568</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">14.883237588941622</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.7733177795170616</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">26.625362926419225</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">100</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">43: Niederrheinische Bucht</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">26.42257689895473</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">12.853111378689757</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">23.633551161172548</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">27.861134048758355</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">90.770373496041969</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.0630275311220361</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.26470043532110216</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.9018984697823447</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.2296264023592052</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999796802356</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">Norddeutsches Tiefland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">11.275601186975777</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.2329894578188414</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.5654205575434741</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">16.509569962055437</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">38.583581116068238</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.1023349300708194</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.22104852282599163</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.442708650822971</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">50.746555096326453</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.903771683790819</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">61.416418863255551</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999895510513</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">18: Nordwestdeutsche Berglandschwelle</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">25.462742428755792</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">27.876970996826106</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">13.008211075254097</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">12.440101232166462</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">78.78802571081583</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.1191080429844726</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.9817917204122304</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.26473100188651238</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.8430276610446716</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">8.0033158405506875</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">21.21197428911432</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999777642557</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">19: Nordwestliches Harzvorland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">19.106757383816202</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">20.703178176668445</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">18.97757130037316</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">12.613308951919356</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">71.400815927496495</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.9453543353662903</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.43722600685379781</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">13.192258123043979</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.0243453290529647</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">28.599183907725809</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999832321322</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">20: Nordöstliche Harzvorländer</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">21.760667991131079</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.8595594699017173</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">31.821255123026344</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">21.750957911928257</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">77.19244030085315</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.76186197577125681</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">21.920079848142354</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.12561783975429672</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">22.807559663667906</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999772934672</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">21: Sachsen-Anhaltinische Löss-Ebene</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">13.485509322182279</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.6346830851499172E-2</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">44.042731998487092</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">41.47174423085206</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.066332608146126</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.40484127621651378</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.52882580858577555</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.9336670848022891</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999674886567</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">26: Lausitzer Löss-Hügelland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">16.643707329874019</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">7.7008712661996439</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.0867378293577232</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">21.4745026474654</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">51.905818915490151</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">19.232425479913598</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.70422531486716267</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">24.610091213299121</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.5474389924797469</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">48.094180927103203</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999790124477</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">30: Westlausitzer Platte und Elbtalzone</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">33.173152596536184</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">8.9796499937685059</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.7351555357590787</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">15.460546844775905</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">67.348504486980119</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">12.293350361439551</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">18.450301661301214</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.9078438157067559</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">32.651495804191981</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">100</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">31: Sächsisch-Thüringisches Löss-Hügelland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">27.184821025547294</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.0965482868103829</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">14.164902615285083</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">24.387036430538615</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">70.833308171287399</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">8.1230482769991976</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">14.366276409057512</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.6773673395451523</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">29.166692029784574</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">100.00000016770829</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">32: Leipziger Sandlöss-Ebene</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">21.1880568502134</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.1263184618383821</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">32.02233543782075</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">41.064389785422321</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">96.40110012349713</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.6064242271308937</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.9924756810565922</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.5988998765028724</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">100.0000002534769</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">33: Ostthüringisches Trias-Hügelland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.1056950571982256</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.5582334826474469</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">7.8993940391068911</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">7.5234434279786164</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">34.086765971065482</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">22.17462737026651</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.6534636700306221E-2</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.88682177689040287</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">40.106825765266521</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.7284247261922645</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">65.913234083684713</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999974136287</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">34: Thüringer Becken</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">19.818123645269321</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">20.074929303644055</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">28.762069331988833</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">16.905597153890373</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">85.560719050458047</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">8.162625238069138</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.9525073115800842</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.3241482057578877</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">14.439280818369761</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999664199194</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">35: Nordthüringisches Trias-Hügelland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">25.978909758694101</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">33.489923949083739</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">15.985911210341305</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">10.87627653228491</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">86.331021157561707</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.3811781305536677</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.444418244945948E-2</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.3178600353189465</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.9354965212338522</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">13.668978862955951</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999923135334</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">55: Erzgebirgsvorland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">17.32511081172418</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.4489322156341164</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">11.34337537251745</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">23.218617762985339</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">55.336036008990398</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">29.097159174338294</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.1739130477035431</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.8608945632160259</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.531996972921096</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">44.66396371768667</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999805637017</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">Lösshügelländer</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">19.716914251164003</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">15.429436081648227</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">14.911601070047913</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">15.811873744782151</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">65.869825017491721</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">12.085266110096358</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.38397649139861872</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.3371999488521033</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">16.883944240061226</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.4397882299377764</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">34.130174976435143</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999903720123</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">27: Zittauer Gebirge</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1"></Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.87984581018700658</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.6019711419217559</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.4818169521087623</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">75.967717487459808</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.65173091277238859</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">11.726565068416109</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.1721688733984568</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">97.518182106765252</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999372582693</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">28: Oberlausitzer Bergland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">7.1102623370382751</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">7.8864641837655141</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.8458636639569903</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">14.152035686305329</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">33.994625780406388</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">56.093037378171047</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.52174978826821272</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.8327587910603569</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.5578283741823782</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">66.00537421959362</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">100</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">29: Elbsandsteingebirge</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.893110688190113</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">7.2657924928801352</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.3575282934296142</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">12.711830589255616</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">30.228261965887686</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">48.082134580541812</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">16.5971177717819</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.0924860069622584</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">69.771738387699187</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999949487588</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">53: Thüringer Gebirge</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.2969508021546268</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">12.647164337030292</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.3266727729735313</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.3077610974777043</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">22.578549003955949</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">70.337310292497378</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.14178887273866095</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.47796896044274112</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.2252466645481404</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.2391361450463649</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">77.421450906274345</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999827800082</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">54: Vogtland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.0609008021797877</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.9056683780414374</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.7740660715004699</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">10.890070219481739</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">21.630705446491124</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">60.027963806973304</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.31715538079813121</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.15041843011962214</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">14.45599532833843</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.4177617371011366</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">78.369294591074834</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999879724442</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">56: Erzgebirge</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.8486271781227277</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.8678347504091342</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.0184458185238414</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">10.700700505030625</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">22.435608242700905</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">68.75162444893455</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.2304106876767715</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.17905968628219351</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.8129806592537352</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.5903163682841033</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">77.564391822997038</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999930692255</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">57: Frankenwald, Fichtelgebirge und Steinwald</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.56107538292121906</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.5048128108714618</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.0923192818639427</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">7.7556449982711131</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">16.913852470313078</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">73.320228746966933</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.022298057903859</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.25942119596846192</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">7.6662294623069833</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.81796988614465416</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">83.086147354876559</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999803994839</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">58: Oberpfälzer Wald</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.3147756342725794</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.337380159499975</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.98624357253479911</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">10.299925015042541</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">15.938324364280637</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">53.871442091685417</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.99189801340572448</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.1942191730280654</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">25.812645670266303</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.1914707915461515</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">84.06167557163478</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999770014227</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">79: Bayerischer Wald</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.1369898725953802</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">17.32914553244531</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.7585027981891943</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">8.7471351779353395</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">32.971773393514681</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">50.639047561666381</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.1520776904989152</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.129770442057181</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.5710287863178376</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.5363023244803109</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">67.02822674398125</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999889248116</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">Östliche Mittelgebirgsschwelle</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.9672594042617981</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.0366243746062072</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.5789054243502485</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.2420356292762573</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">23.824824823290101</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">61.193578675139833</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.7631152899966902</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.62041047855130849</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.2939678459116344</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.3041029554223003</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">76.17517518629279</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999860509661</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">17: Weserbergland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">8.4450272983046641</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">40.555145524270579</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">10.823677734804814</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">7.4679873159997303</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">67.291837774353908</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">22.253444043669781</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.18319204789223156</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.7581667512473649</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.8910439475796141</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.6223156489781596</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">32.708162367682682</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">100.00000003272007</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">36: Harz</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.1979446909742055</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">22.328319334455731</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.7793598588753392</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.9731561203322201</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">40.27877995659582</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">56.542274348677147</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.6645426871449076E-3</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.44455290768833322</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.71814747343034679</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.0115808128754549</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">59.721220065767696</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999999826542</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">37: Mitteldeutsches Trias-Berg- und Hügelland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">10.638294097718253</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">40.200093484406054</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">7.8630789427195129</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.8353489912928493</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">64.53681546590478</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">23.98232933174004</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">7.0544149461644595E-3</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.2738219827027992</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.8570869173165088</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.3428920431230642</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">35.46318465409297</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999985462466</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">38: Nordwesthessisches Bergland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">10.369649364743106</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">35.159849455218598</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.7095721778206538</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">7.8990510459370515</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">60.138121995774348</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">16.911529373748728</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.6132221064567882</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">13.178574658965383</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">7.1585517027490093</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">39.861877884970887</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999867388752</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">39: Nördliches hessisches Schiefergebirge</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">17.928986514719764</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">34.45438024761674</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.6836668553176199</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.1627791799554492</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">63.229812608904588</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">24.06515362645786</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.0140301986123239E-2</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">7.4187506951857873</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.4017433225584042</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.8243994413750841</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">36.770187425674607</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999904860076</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">40: Sauerland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.2828446732495244</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">18.280088347476333</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.6645955874012364</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">11.968413754451563</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">42.195942259192172</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">50.892295671648959</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.2403645900190776</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.5657048258028234</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.52898667779962272</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.5767059540790589</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">57.804057700071567</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999851630008</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">41: Bergisches Land</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">21.822226897457629</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">18.722500371292128</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">8.6314913291501885</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">14.233321793636206</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">63.409540170530633</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">29.126050094752582</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.1172004043948715</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.8404976417527794</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.6607232705906916</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.8459883247960631</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">36.590459716638264</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999850399277</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">44: Nordwesteifel</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">14.479408490716134</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">17.276179119254529</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.0373603550470305</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">8.8446014487283975</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">45.637549334487112</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">41.690158935028116</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.6101690528996051</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.5953213649294851</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.8807434930085267</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.5860578492004533</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">54.362450707261765</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999947835221</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">45: Osteifel</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">24.973895186042785</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">19.803024418318014</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.094903246630361</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.09963575812084</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">59.971458431990342</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">22.390121133733537</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.49349299498187316</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.2014424056229025</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.1204530890785946</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.8230319315347132</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">40.028541521532865</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.99999988623405</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">46: Mittelrheintal</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">38.628462859708158</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">22.168131989150464</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">15.558241176095153</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">11.188388371218357</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">87.543224218247829</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.0754885375353558</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.39929840882471018</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.0314846496079859</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.4667052183728164</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.4837990591535331</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">12.456775848473796</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999866556749</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">47: Westerwald</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">13.552244297442506</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">28.087962419673286</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">11.815683173838016</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">13.405199398663797</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">66.861089215872255</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">27.165619800137012</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.11531598259856268</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.4353769588787961</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.655494230515429</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.7671038618189256</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">33.138910813665092</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999972001135</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">48: Taunus</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">23.893652663741683</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">33.062349571865681</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.0167122145198118</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.5927193415450827</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">67.565433758437138</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">19.407270266861456</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.2836360126648291E-2</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.4002329577358186</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.6607902813046316</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.933436382890791</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">32.434566219378517</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999791443969</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">49: Wetterau und Giessener Becken</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">20.627406763809699</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">45.656669305430519</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.9486963064582259</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.0975739249476684</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">82.330345997103933</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.5156249569522018</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.2875092095798917</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.4855379175256811</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.3809812289697152</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">17.669653313027489</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999116968226</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">50: Vogelsberg und östlich angrenzende Sandsteingebiete</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">7.9591720822049377</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">22.400491215056547</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">16.12328560815515</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">10.18015341175097</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">56.663102127779752</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">24.548755611683507</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.11059138511783086</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.8687165731596962</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">12.433329336772225</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.3755050552119572</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">43.336897918786363</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999927311407</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">51: Rhön</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">13.796983676680938</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">30.415063771607116</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">11.770563984714505</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.2312002449057093</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">61.21381144930259</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">21.084684231289259</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.21887037699987424</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.0307048937435184</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.9851330602243475</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.4667961996180217</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">38.786188688318731</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999884972922</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">66: Hunsrück</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">19.487624050454276</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">20.051648578162041</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.1164736475756882</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">12.865099537583884</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">57.520845741973332</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">30.436239596352081</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.54717925299784553</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.5939106036613087</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.9907137681768257</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.9111110148021102</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">42.479154209120161</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999812993238</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">67: Moseltal</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">35.316797971496108</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">18.026380333506882</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.4309363116151488</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">11.504128334336547</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">74.27824281856833</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.8259677724935504</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.1032526817331734</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">13.740629165835138</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.8188879705663079</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.2330196554572903</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">25.721757239927957</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">100.00000002463001</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">70: Saar-Nahe Bergland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">29.177272291055054</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">22.400696769138179</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">14.163762586941846</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">14.062465444247964</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">79.804196985838189</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">7.4366465681707723</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.67289925160984776</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.765976609198626</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.8277699182506861</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.4925107192858031</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">20.195803041305187</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999995122806</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">71: Westricher Moorniederung</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.9659361343999775</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.9621515131034872</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">15.833314881331859</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">27.761402554347963</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">18.977295025619</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.5463524361357941</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.56148023774693545</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">51.153469393390267</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">72.238597462660465</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">100</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">Westliche Mittelgebirgsschwelle</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">14.847382352515936</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">27.395965573345659</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">8.0417451952572065</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.0314762761468472</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">59.316569291078991</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">29.114793201053846</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.35449916723538194</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.4480319315678241</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.2164714225264213</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.5496350324347148</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">40.68343073106783</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999919190728</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">52: Südthüringisches-Oberfränkisches Trias-Hügelland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">7.5210948016610812</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">12.066644080114354</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.6034841463387863</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.1191775841760947</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">34.310400597088005</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">35.379988175543005</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.19996910522045289</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.50850709042020914</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">24.490153662679976</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.1109815530146498</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">65.689599418734971</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999902612601</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">59: Oberpfälzer Becken- und Hügelland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.665011161521933</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.5823161998606619</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.56544687661971182</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">8.7132546762502692</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">15.526028887778429</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">24.93614401219854</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.19058254280492068</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.6301428988533587E-2</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">57.357738878522476</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.9432045220125846</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">84.473971172733911</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999939487665</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">60: Frankenalb und Oberpfälzer Jura</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.9212203860694501</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">22.829865045021638</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">7.384929941972378</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.2503962786823131</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">40.386411620396515</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">34.628728075276882</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.4624072315308248</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.51253479393607948</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">21.906698109153918</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.1032203773974478</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">59.613588588497031</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999982115142</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">61: Fränkischer Keuper und Albvorland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">14.635973387114587</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">10.664917362946444</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.8441128262907851</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">8.4471501395083113</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">40.59215364500016</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">15.822392644970051</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.38479266669687834</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.0328311206865926</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">40.068981407878141</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.0988486418578458</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">59.407846437441123</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999893057748</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">62: Fränkische Platte</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">32.254281000497485</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">17.389229679328217</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">18.788648955376903</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.9900536328168057</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">75.422213033820427</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">8.2849927037401265</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.28712781323515046</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.1560983160650942</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">11.48947608305741</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.3600919855706706</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">24.577786941671921</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999885938891</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">63: Spessart</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">14.009836484016674</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">33.037986566210776</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.1509532387027188</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.5445856916521965</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">54.743361956451885</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">25.533639078056535</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.2113458184018605E-2</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.7537384845803115</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">10.97791904905085</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.9492281305731911</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">45.256638162667308</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999882470078</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">64: Odenwald</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">8.7651563138670969</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">27.374132471095553</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.8765878135105289</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.0927651885471121</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">47.108641787397787</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">26.713815316095662</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.8638367582077725</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.3296180898673269</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">12.721476784815636</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.262611453096568</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">52.891358383132811</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999950080621</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">65: Oberrheinisches Tiefland und Rhein-Main-Ebene</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">18.300663872814972</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">15.085357855879087</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">18.876895050165061</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">14.510286731410451</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">66.773203445533611</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.9950807887416679</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.48489177744630946</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.2519213564109446</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">26.27228499006517</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.2226176896227812</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">33.226796643486935</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999956794653</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">68: Gutland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">14.851514150998804</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">34.077347883230097</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.6156982985631139</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.3503734523594089</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">64.894933843307925</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">12.664229099236298</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.83190222649615708</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.2486586406339981</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">10.076160932505688</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.2841153860047876</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">35.105066214037933</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.99999994602743</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">69: Saarländisch-Pfälzisches Muschelkalkgebiet</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">15.374648072473565</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">24.67387443854718</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">19.884983129357195</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">19.054170640515583</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">78.987676005054539</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">8.4455445105656999</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.4613321751493234</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.3733286019967403</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.180823000508604</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.5512955487088864</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">21.012323822539592</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999808463329</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">72: Pfälzerwald</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">12.337583801494221</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">28.624221445380869</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.5238430046049354</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.1781776806390436</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">47.663825853739795</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.3233794545748676</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.84102949470622324</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">7.7163683600849131</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">30.546779420914817</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.908617623625986</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">52.336174295739752</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999950086831</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">73: Schwarzwald</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.0819192209063395</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">15.342281641898433</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.2455947179933116</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.9147958798495042</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">27.584591426469007</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">42.745947066312127</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">18.534837894077917</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.0909358812899397</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.0315319630202353</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.0121558813467963</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">72.415408593391206</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999890869276</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">74: Baar-Wutach</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.7926292480010735</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">8.000798205746575</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.8197981603347433</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.1311551015001804</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">20.744380719241995</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">60.285407410777424</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">8.2080035093179706</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.83691461606777917</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">8.8902957287090363</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.0349982100180604</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">79.255619226232625</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999871188379</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">75: Neckarland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">14.670888784331835</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">24.682833248170919</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">15.361133573948418</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.0407902902782054</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">60.75564581229861</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">22.200868269981562</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.3503953875352233</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.8617486060585615</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.6616899877350431</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.169652025820207</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">39.24435426162664</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.99999990103511</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">76: Schwäbische Alb</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.9758966744451225</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">38.945541879429676</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">14.526161853825956</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.0217277834162379</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">57.469328144561857</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">35.202721763329578</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.3133526202636485</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.2035593851237421</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.895847519024052</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.91519068195577891</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">42.530671924098968</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999918311218</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">Mesozoisches Schichtstufenland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">10.320309359356017</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">20.911202547381809</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.1879724350991854</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.3374518546387577</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">46.75693613979854</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">25.948859785497095</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.0600430420967042</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.7475057706356911</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">17.934450804213807</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.5522045881897628</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">53.243063944455727</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999918011696</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">77: Südwestdeutsches Alpenvorland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">4.3114504828861744</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">14.724270470263603</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">12.181779861247954</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">7.2794766588047564</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">38.496977410803588</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">49.824481752621054</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.6653719323220413</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.6205028454270183</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.5968571401407918</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.7958090274223402</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">61.503022631818368</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999850793216</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">78: Tertiäres Hügelland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">5.2753272279207764</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.792269913513155</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">7.1653728726265644</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.028195067874643</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">28.261165034055669</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">54.885715824119821</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.7804584863572752</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.9768832834487996</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">10.920463088844182</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.1753142145764639</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">71.738834870972099</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999802993614</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">80: Schwäbisch-Bayerische Schotterplatten- und Altmoränenlandschaft</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.7765460615906941</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">7.8144492401479067</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">12.689815202219897</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">10.877709396759368</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">34.158519861133925</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">56.632623930636058</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.5968827574364084</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.25214718006437481</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.1321291611025366</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.2276972174948382</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">65.84148023671014</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999928811903</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">81: Schwäbisch-Bayerische Jungmoräne und Molassevorberge</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.4927512432664123</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.8284666799496829</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">11.775872407194511</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">11.650638226917728</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">34.747728578983086</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">54.991106353726636</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.1300919696725207</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.15515834587059288</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.3652818379563962</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.61063293640262706</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">65.252271433296926</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999869460083</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">Alpenvorland</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.8308412224849762</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.1983929263621373</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">10.104054375831364</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.5723279117333462</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">32.705616402349513</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">54.205445129858909</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.0513429392926428</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0.99810452367450742</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">7.663077037591008</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.3764139835615175</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">67.294383586051879</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999848335676</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">82: Bayerische Alpen</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.337104032038614E-2</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">19.294870737628898</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.676323458602285</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.1849656326522897</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">32.179530838790939</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">57.880714781281149</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.8500725876188566</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.8703393927857446</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.2193425636269928</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">67.820469232347804</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999895508566</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">Alpen</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.337104032038614E-2</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">19.294870737628898</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">9.676323458602285</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">3.1849656326522897</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">32.179530838790939</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">57.880714781281149</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">6.8500725876188566</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">0</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.8703393927857446</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.2193425636269928</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">67.820469232347804</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.999999895508566</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">alle Wuchsgebiete</Data></Cell>
+    <Cell><Data ss:Type="String" ss:CustomWidth="1" ss:BestFit="1">[%]</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">10.630015846631483</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">15.80870364208233</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">7.2413711686312956</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">10.801250339383625</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">44.481340934993845</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">26.000618789850382</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">1.7196560495940965</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.0475556685693177</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">22.861628667800684</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">2.8891999442990683</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">55.518659086105139</Data></Cell>
+    <Cell><Data ss:Type="Number" ss:CustomWidth="1" ss:BestFit="1">99.99999990030463</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.4921259845"/>
+    <Footer x:Margin="0.4921259845"/>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>5</ActiveRow>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+   <ss:PageSetup>
+     <ss:Header x:Margin="0.4921259845"/>
+     <ss:Footer x:Margin="0.4921259845"/>
+     <ss:PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996" x:Right="0.78740157499999996" x:Top="0.984251969"/>
+    </ss:PageSetup>
+   <ss:Selected/>
+   <ss:Panes>
+     <ss:Pane>
+      <ss:Number>1</ss:Number>
+      <ss:ActiveRow>1</ss:ActiveRow>
+      <ss:ActiveCol>1</ss:ActiveCol>
+     </ss:Pane>
+    </ss:Panes>
+   <ss:ProtectObjects>False</ss:ProtectObjects>
+   <ss:ProtectScenarios>False</ss:ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
