@@ -43,5 +43,27 @@ heatmap.2(heat, breaks = 9, col = color_visme, dendrogram = "row", sepcolor = co
 dev.off()
 windows.options(reset=TRUE)
 
-library(purrr)
-as_mapper()
+
+#Clusteranalysis for types
+
+
+
+
+# Trying Extension to color class
+
+heatmap.2(d, main="Hierarchical Cluster",
+          Rowv=as.dendrogram(hr),
+          Colv=NA, dendrogram="row", scale="row", col=myheatcol, density.info="none",
+          trace="none", RowSideColors= myClusterSideBar)
+
+cluster <- hclust(dist(heat), method="ward.D")
+mycl <- cutree(cluster, 4)
+clusterCols <- rainbow(length(unique(mycl)))
+myClusterSideBar <- clusterCols[mycl]
+# draw the heat map
+heatmap.2(heat, breaks = 9, col = color_visme, dendrogram = "row", sepcolor = color_bg, 
+          hclustfun = function(x) hclust(x, method="ward.D"), margins = c(1,10),
+          cexRow = 0.3, trace = "none", labRow = NA,  labCol = NA, tracecol = color_test, 
+          key.title = NA, key.xlab = NA , key.ylab = NA,  key.ytickfun = NA,
+          RowSideColors= myClusterSideBar, Rowv=as.dendrogram(cluster))
+
