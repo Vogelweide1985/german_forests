@@ -20,8 +20,11 @@ config[["unintesting_cols"]] <- c("Einheit",
 config[["rds_name"]] <- "df_heat.rds"
 config[["asset_path"]] <- "asset/SVG"
 config[["output_path"]] <- "asset/output"
-
+config[["shape_path"]] <- "geodata/wuchsgebiete_2011.shp"
+  
 config[["col_of_region_name"]] <- "Wuchsgebiet"
+config[["colors_bg"]] <- "#F1F7FF"
+
 
 config[["tree_files"]] <- c(6,   #Eiche
                             24,  #Buche

@@ -4,12 +4,6 @@ library(tidyr)
 library(RColorBrewer)
 source("config.R", encoding = "UTF-8")
 
-color_start <- "#FAD78A"
-color_mid <- "#772424"
-color_end <- "#B7455B"
-color_test <- "#39325B"
-color_bg <- "#F1F7FF"
-color_style <- c(color_start, color_mid, color_test)
 #color_end <- "#39325B"
 
 #read 
@@ -32,7 +26,7 @@ ggplot(df_heat_long, aes(Baumart, Wuchsgebiet, fill= df)) +
 
 
 
-jpeg("test.jpg", bg = color_bg, width= 4000, height=4000)
+jpeg("test.jpg", bg = config[["colors_bg"]], width= 4000, height=4000)
 color_visme <- colorRampPalette(color_style)
 heatmap.2(heat, breaks = 9, col = color_visme, dendrogram = "row", sepcolor = color_bg, 
           hclustfun = function(x) hclust(x, method="ward.D"), margins = c(1,10),
@@ -67,3 +61,6 @@ heatmap.2(heat, breaks = 9, col = color_visme, dendrogram = "row", sepcolor = co
           key.title = NA, key.xlab = NA , key.ylab = NA,  key.ytickfun = NA,
           RowSideColors= myClusterSideBar, Rowv=as.dendrogram(cluster))
 
+
+# Anteile
+round(prop.table(table(mycl))*100,1)
