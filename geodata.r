@@ -36,6 +36,11 @@ ggplot() +
 cluster <- hclust(dist(heat), method="ward.D")
 mycl <- as.factor(cutree(cluster, 4))
 clusterCols <- rainbow(length(unique(mycl)))
+# draw dendogram with red borders around the 5 clusters
+plot(cluster)
+rect.hclust(cluster, k=4, border="red") 
+dev.off()
+
 
 # Anteile
 round(prop.table(table(mycl))*100,1)
