@@ -11,56 +11,20 @@ df <- readRDS(config$rds_name)
 
 #Heatmap Stats
 heat <- as.matrix(df[, -which(names(df) %in% c("Wuchsgebiet"))])
-
 #basic
 heatmap(heat, hclustfun = function(x) hclust(x, method="ward.D"),
         labRow = df$Wuchsgebiet)
 
-
-#ggplot Heatmap
-df_heat_long <- df %>%
-   gather(df, key = "Baumart", -Wuchsgebiet)
-ggplot(df_heat_long, aes(Baumart, Wuchsgebiet, fill= df)) + 
-   geom_tile()
-
-
-
-
-jpeg("test.jpg", bg = config[["colors_bg"]], width= 4000, height=4000)
-color_visme <- colorRampPalette(color_style)
+#heatmap2
+color_visme <- colorRampPalette(config[["colors_gradient"]])
 heatmap.2(heat, breaks = 9, col = color_visme, dendrogram = "row", sepcolor = color_bg, 
           hclustfun = function(x) hclust(x, method="ward.D"), margins = c(1,10),
-          cexRow = 0.3, trace = "none", labRow = NA,  labCol = NA, tracecol = color_test, 
+          cexRow = 0.3, trace = "none", labRow = NA,  labCol = NA, tracecol = config[["colors_end"]], 
           key.title = NA, key.xlab = NA , key.ylab = NA,  key.ytickfun = NA )
 
 
 dev.off()
 windows.options(reset=TRUE)
-
-
-#Clusteranalysis for types
-
-
-
-
-# Trying Extension to color class
-
-heatmap.2(d, main="Hierarchical Cluster",
-          Rowv=as.dendrogram(hr),
-          Colv=NA, dendrogram="row", scale="row", col=myheatcol, density.info="none",
-          trace="none", RowSideColors= myClusterSideBar)
-
-cluster <- hclust(dist(heat), method="ward.D")
-mycl <- cutree(cluster, 4)
-clusterCols <- rainbow(length(unique(mycl)))
-myClusterSideBar <- clusterCols[mycl]
-# draw the heat map
-heatmap.2(heat, breaks = 9, col = color_visme, dendrogram = "row", sepcolor = color_bg, 
-          hclustfun = function(x) hclust(x, method="ward.D"), margins = c(1,10),
-          cexRow = 0.3, trace = "none", labRow = NA,  labCol = NA, tracecol = color_test, 
-          key.title = NA, key.xlab = NA , key.ylab = NA,  key.ytickfun = NA,
-          RowSideColors= myClusterSideBar, Rowv=as.dendrogram(cluster))
-
 
 # Anteile
 round(prop.table(table(mycl))*100,1)
