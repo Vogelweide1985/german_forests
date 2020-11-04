@@ -31,15 +31,13 @@ ggplot(df_heat_long, aes(Baumart, Wuchsgebiet, fill= df)) +
 
 
 
-d <- dist(heat)
-dend <- hclust(d, method = "ward.D")
 
-par(bg = color_bg)
+jpeg("test.jpg", bg = color_bg, width= 4000, height=4000)
 color_visme <- colorRampPalette(color_style)
-heatmap.2(heat, breaks = 10, col = color_visme, dendrogram = "row",
+heatmap.2(heat, breaks = 9, col = color_visme, dendrogram = "row", sepcolor = color_bg, 
           hclustfun = function(x) hclust(x, method="ward.D"), margins = c(1,10),
-          cexRow = 0.3, trace = "none", labRow = T, labCol = NA, tracecol = color_test, 
-          key.title = NA, key.xlab = NA , key.ylab = NA,  key.ytickfun = NA)
+          cexRow = 0.3, trace = "none", labRow = NA,  labCol = NA, tracecol = color_test, 
+          key.title = NA, key.xlab = NA , key.ylab = NA,  key.ytickfun = NA )
 
 
 dev.off()
