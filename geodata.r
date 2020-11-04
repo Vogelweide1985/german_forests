@@ -12,7 +12,7 @@ ggplot() +
    geom_sf(data = regions, color = "black", fill = "cyan1") + 
    ggtitle("AOI Boundary Plot") + 
    coord_sf() + 
-   theme(panel.background = element_rect(fill = color_bg,
-                                      colour = color_bg))
+   theme(panel.background = element_rect(fill = config[["colors_bg_map"]],
+                                      colour = config[["colors_bg_map"]]))
 
          

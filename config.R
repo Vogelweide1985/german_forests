@@ -24,7 +24,7 @@ config[["shape_path"]] <- "geodata/wuchsgebiete_2011.shp"
   
 config[["col_of_region_name"]] <- "Wuchsgebiet"
 config[["colors_bg"]] <- "#F1F7FF"
-
+config[["colors_bg_map"]] <- "#B7455B"
 
 config[["tree_files"]] <- c(6,   #Eiche
                             24,  #Buche
