@@ -26,5 +26,4 @@ heatmap.2(heat, breaks = 9, col = color_visme, dendrogram = "row", sepcolor = co
 dev.off()
 windows.options(reset=TRUE)
 
-# Anteile
-round(prop.table(table(mycl))*100,1)
+
