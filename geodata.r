@@ -43,6 +43,7 @@ dev.off()
 
 
 # Anteile
+table(mycl)
 round(prop.table(table(mycl))*100,1)
 
 # Plot Wladanteile nach Wuchsgebiet
@@ -58,6 +59,6 @@ ggplot() +
          panel.border = element_blank(),
          panel.grid.major = element_blank(),
          panel.grid.minor = element_blank()) +
-   scale_fill_manual(values = c(config[["colors_end"]], config[["colors_start"]],
-                                config[["colors_map"]], config[["colors_mid"]]))
+   scale_fill_manual(values = c(config[["colors_map"]], config[["colors_start"]],
+                                config[["colors_end"]], config[["colors_mid"]]))
 
