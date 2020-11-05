@@ -32,6 +32,8 @@ config[["colors_gradient"]] <- c(config[["colors_start"]],
                                  config[["colors_mid"]],
                                  config[["colors_end"]])
 
+config[["cluster_method"]] <- "ward.D"
+
 config[["tree_files"]] <- c(6,   #Eiche
                             24,  #Buche
                             5,   #LB hoch

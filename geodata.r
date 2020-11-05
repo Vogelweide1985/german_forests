@@ -33,20 +33,26 @@ ggplot() +
 
 
 # Clusteranalysis
-cluster <- hclust(dist(heat), method="ward.D")
+
+df <- readRDS(config$rds_name)
+
+#Heatmap Stats
+heat <- as.matrix(df[, -which(names(df) %in% c("Wuchsgebiet"))])
+cluster <- hclust(dist(heat), method=config[["cluster_method"]])
 mycl <- as.factor(cutree(cluster, 4))
+names(mycl) <- c("1: Mischwald", "2: Buchen-Fichten-Wald", "4: Kiefernwald", "3: Fichtenwald")
 clusterCols <- rainbow(length(unique(mycl)))
 # draw dendogram with red borders around the 5 clusters
 plot(cluster)
 rect.hclust(cluster, k=4, border="red") 
-dev.off()
+
 
 
 # Anteile
 table(mycl)
 round(prop.table(table(mycl))*100,1)
 
-# Plot Wladanteile nach Wuchsgebiet
+# Plot Wladanteile nach Cluster
 ggplot() + 
    geom_sf(data = regions, aes( fill = mycl), size  = 0.1) + 
    coord_sf(label_axes = "none") + 
@@ -60,5 +66,5 @@ ggplot() +
          panel.grid.major = element_blank(),
          panel.grid.minor = element_blank()) +
    scale_fill_manual(values = c(config[["colors_map"]], config[["colors_start"]],
-                                config[["colors_end"]], config[["colors_mid"]]))
+                                config[["colors_end"]], config[["colors_mid"]], "blue", "green"))
 
