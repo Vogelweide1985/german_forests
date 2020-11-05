@@ -50,9 +50,10 @@ config[["tree_files_path"]] <- list.files(path= config$asset_path) [config$tree_
 
 
 #Function for drawing treemaps
-tree_map <- function(trees, probs, filename, width = 4800, iterations = 1000) {
-   img <- image_graph(width,width, res = 300, bg="white")
+tree_map <- function(trees, probs, filename, width = 2400, iterations = 1000) {
+   img <- image_graph(width,width, res = 150, bg="white")
    for (i in 1: iterations) {
+      par(bg = config[["colors_bg"]])
       grid.raster(trees[[sample(1:length(probs), 1, prob = probs)]],
                   x= runif(1, 0.05,0.95), y= runif(1, 0.05,0.95), width= 0.058)
    }
